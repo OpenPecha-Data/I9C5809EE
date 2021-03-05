@@ -1,9 +1,10 @@
-id: opecha:P008039
+id: P008039
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG6061
   title: ཏིབེཏན་ཨེལེམེནཏལ་དིབི༹ནཏིཨོན་པཻནཏིངས
-  volume:
+  author: ''
+  volumes:
     f023e63ca6894b2a91f1f82297d894c9:
       image_group_id: I1KG6078
       title: 'Volume 1 of tibetan elemental divination paintings : illuminated manuscripts
@@ -11,7 +12,7 @@ source_metadata:
         of lo-chen dharmasri'
       volume_number: 1
       total_pages: 436
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཏིབེཏན་ཨེལེམེནཏལ་དིབི༹ནཏིཨོན་པཻནཏིངས
   author: ''
